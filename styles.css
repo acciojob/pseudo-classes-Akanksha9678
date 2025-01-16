@@ -16,3 +16,7 @@ li:nth-child(odd){
 .b{
 	background-color:pink !important;
 }
+p:first-child{
+	color:white;
+	background:black;
+}
