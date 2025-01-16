@@ -20,3 +20,9 @@ p:first-child{
 	color:white;
 	background:black;
 }
+/* p:nth-child(2){
+	color:standard;
+} */
+p:last-child{
+	color:red !important;
+}
